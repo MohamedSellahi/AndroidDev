@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="hello_world">مرحبا العالم</string>
+    <string name="image_logo">عطلة الصور</string>
+    <string name="welcome">مرحبا بكم في الروبوت ديفيلوبيمنت</string>
+</resources>
